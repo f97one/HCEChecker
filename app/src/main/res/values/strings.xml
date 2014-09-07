@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HCEChecker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hce">Host-based Card Emulation mode</string>
+    <string name="supported">SUPPORTED</string>
+    <string name="not_supported">NOT supported</string>
+    <string name="unknonwn">Sorry, unknown</string>
+    <string name="supported_features">Supported Features :</string>
+
+</resources>
